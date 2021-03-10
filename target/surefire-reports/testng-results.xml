@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="31" started-at="2019-07-18T04:04:22Z" finished-at="2019-07-18T04:04:22Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="31" started-at="2019-07-18T04:04:22Z" finished-at="2019-07-18T04:04:22Z">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="AndroidTest()[pri:0, instance:qaclickacademy.AppiumTest@5b464ce8]" name="AndroidTest" duration-ms="0" started-at="2019-07-18T04:04:22Z" finished-at="2019-07-18T04:04:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidTest -->
+        <test-method status="PASS" signature="IOSTest()[pri:0, instance:qaclickacademy.AppiumTest@5b464ce8]" name="IOSTest" duration-ms="0" started-at="2019-07-18T04:04:22Z" finished-at="2019-07-18T04:04:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSTest -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.RestAPITest">
+        <test-method status="PASS" signature="MainTest()[pri:0, instance:qaclickacademy.RestAPITest@57829d67]" name="MainTest" duration-ms="0" started-at="2019-07-18T04:04:22Z" finished-at="2019-07-18T04:04:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MainTest -->
+        <test-method status="PASS" signature="NativeTest()[pri:0, instance:qaclickacademy.RestAPITest@57829d67]" name="NativeTest" duration-ms="0" started-at="2019-07-18T04:04:22Z" finished-at="2019-07-18T04:04:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeTest -->
+      </class> <!-- qaclickacademy.RestAPITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="Elementsui()[pri:0, instance:qaclickacademy.SeleniumTest@19dfb72a]" name="Elementsui" duration-ms="0" started-at="2019-07-18T04:04:22Z" finished-at="2019-07-18T04:04:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Elementsui -->
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:qaclickacademy.SeleniumTest@19dfb72a]" name="BrowserAutomation" duration-ms="0" started-at="2019-07-18T04:04:22Z" finished-at="2019-07-18T04:04:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
